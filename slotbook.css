@@ -75,7 +75,8 @@ body {
 }
 
 .myimg {
-    margin: 5% auto 5% auto;
+    margin: 2% auto 2% auto;
+    border-radius: 100%;
 }
 
 .aboutclass {
